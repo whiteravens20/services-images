@@ -8,7 +8,7 @@ This repository contains images and favicons used across various White Ravens se
 - Various image assets
 
 ## Usage
-These assets are intended for use within ****White Ravens** projects and services. If you wish to use them elsewhere, please ensure compliance with any applicable licensing terms.
+These assets are intended for use within **White Ravens** projects and services. If you wish to use them elsewhere, please ensure compliance with any applicable licensing terms.
 
 ## License
 All assets in this repository are subject to their respective licenses. Please check individual files for details.
