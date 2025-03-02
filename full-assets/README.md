@@ -8,7 +8,7 @@ The following icons are used in this repository. Usage requires proper attributi
 - **Pastebin** - [Clipboard icons](https://www.flaticon.com/free-icons/clipboard) created by Smashicons - Flaticon  
 - **Search** - [Search icons](https://www.flaticon.com/free-icons/search) created by Freepik - Flaticon  
 - **Invid** - [Play button icons](https://www.flaticon.com/free-icons/play-button) created by Freepik - Flaticon  
-- **Notify** - [Notify icons](https://www.flaticon.com/free-icons/notify) created by Elzicon - Flaticon  
+- **Notify** - [Notified icons](https://www.flaticon.com/free-icons/notified) created by juicy_fish - Flaticon   
 - **Documentation** - [Book icons](https://www.flaticon.com/free-icons/book) created by Freepik - Flaticon  
 - **Dashboard** - [Layout icons](https://www.flaticon.com/free-icons/layout) created by Vector Bazar - Flaticon  
 
